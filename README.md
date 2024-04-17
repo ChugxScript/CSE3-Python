@@ -1,1 +1,1 @@
-# CSE3-Python-Act1
+# CSE3-Python-Activities
